@@ -69,3 +69,9 @@ editor: visual
   - Settings -\> pages -\> deploy from a branch
 
 - easier on positron
+
+# Appendix
+
+[GH Repo](https://github.com/itsnik1/Week-7-class-notes)
+
+[Published Page](https://itsnik1.github.io/Week-7-class-notes/week-7-in-class.html)
