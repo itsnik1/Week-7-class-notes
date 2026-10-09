@@ -63,3 +63,9 @@ editor: visual
 - this way you can publish multiple individual HTML pages in the same project
 
 - must still be connected to Git
+
+- On GitHub
+
+  - Settings -\> pages -\> deploy from a branch
+
+- easier on positron
