@@ -1,0 +1,65 @@
+---
+title: "Week 7 Class Notes"
+author: "Nik Sahami"
+date: today
+format: 
+  html:
+    toc: true
+    toc-depth: 2
+    toc-expand: 3
+editor: visual
+---
+
+# CEP Timeline
+
+## Fall
+
+- IBM6200 and 6500
+
+1.  Wk04 - CEP Kickoff
+2.  Wk09 - 1st presentation (Ch 1, 2, and 3)
+    - must secure IRB approval and collect data quickly before wk15
+      - IRB Approval can take a long time - up to 3 weeks even
+      - at LEAST start collecting data by wk13
+3.  Wk15 - 2nd Presentation (also Ch 1, 2, and 3)
+    - there are a lot of improvements to the chapters that happen in the last 6 weeks
+
+## Spring
+
+- IBM6800 and IBM6400
+
+1.  W06 - Ch 4
+2.  W12 - Data analysis and Ch 5 Recommendation
+3.  W16 - Concrete digital marketing plan
+
+# Assignments
+
+- assignments can be submitted up to a week late
+
+  - longer extensions ask him
+
+- Quality of work is more important than timeliness
+
+  - make sure the work is good and ready to be submitted instead of rushing through it
+
+- AI should only be used for aesthetics or formatting, not for doing assignments
+
+# Publishing on GitHub
+
+## GH Pages
+
+- he doesn't do this way anymore
+
+- converts qmd file to index.html
+
+  - because it's index, the url for pages is short and does not include the file name at the end
+
+## Alternate publish
+
+- helps preserve same file name
+
+- once published, you have to type the entire file name
+
+- this way you can publish multiple individual HTML pages in the same project
+
+- must still be connected to Git
